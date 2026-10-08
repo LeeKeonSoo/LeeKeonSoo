@@ -1,36 +1,33 @@
-![Keonsoo Lee — Research, code, and learning](assets/header.svg)
+# Keonsoo Lee
 
-<p align="center">
-  <b>Software Engineering @ Korea Aerospace University</b><br>
-  <a href="mailto:ksl1165@kau.kr">Email</a> · <a href="https://github.com/LeeKeonSoo?tab=repositories">Projects</a>
-</p>
+**Undergraduate Researcher · Korea Aerospace University**<br>
+[ksl1165@kau.kr](mailto:ksl1165@kau.kr)
 
-### Hi, I'm Keonsoo 👋
+I study Software Engineering at Korea Aerospace University and conduct research at the QAI Lab. Previously, I was a research intern at the DiSC Lab, University of Nevada, Las Vegas.
 
-I'm an undergraduate researcher at **QAI Lab, Korea Aerospace University**, and a former research intern at **DiSC Lab, UNLV**. I'm interested in how we can make language models smaller and more efficient, and how models can understand the world and act within it.
+### Research Interests
 
-- 🔬 **Research** — Small language models, efficient training and inference, and world models.
-- 🎓 **Education** — B.S. in Software Engineering, expected August 2027.
-- 🌱 **Community** — President of **Deeperent**, an AI study group.
-- 📚 **Teaching** — Teaching assistant for Data Structures and AI Programming in 2025.
+Small Language Models · Efficient Training and Inference · World Models for Real-World Understanding and Action
 
-### Things I've worked on
+### Education & Research
 
-| Project | What you'll find |
-| :--- | :--- |
-| 🎮 **[Deeperent · FlappyFace](https://github.com/LeeKeonSoo/Deeperent)** | An interactive AI club demo: a real-time vision game controlled by facial movement. |
-| 🔎 **[Korean AI Text Detection](https://github.com/LeeKeonSoo/2025_AI_Text)** | A team competition project exploring KoBERT fine-tuning and an ensemble of text embeddings and stylometric features. |
-| ⚙️ **[Optimizer Experiments](https://github.com/LeeKeonSoo/2025_AI_Paper)** | Implementations and experiments comparing absolute-value-based adaptive optimizers with Adam and AdamW. |
+| Institution | Position | Period |
+| :--- | :--- | :--- |
+| Korea Aerospace University | B.S. in Software Engineering | Expected Aug. 2027 |
+| QAI Lab, Korea Aerospace University | Undergraduate Researcher · Advisor: Prof. Jay Hoon Jung | Jun. 2025–present |
+| DiSC Lab, University of Nevada, Las Vegas | Research Intern · Advisor: Prof. Shaikh Arifuzzaman | Jan.–May 2026 |
 
-### Research Experience
+<sub>Research with the DiSC Lab continued through August 2026.</sub>
 
-**QAI Lab · Korea Aerospace University**<br>
-Undergraduate Researcher · June 2025–present
+### Selected Work
 
-**DiSC Lab · University of Nevada, Las Vegas**<br>
-Research Intern · January–May 2026; research continued through August 2026
+**[OptimABS / Adaptive Optimizer Experiments](https://github.com/LeeKeonSoo/2025_AI_Paper)**<br>
+Proposed an absolute-value-based optimizer and led implementation and experiments examining training-time and accuracy trade-offs. First author and presenter at KAIC 2025.
 
----
+**[AI-Generated Korean Text Detection](https://github.com/LeeKeonSoo/2025_AI_Text)**<br>
+Team project for the 2025 SW-Centered University Digital Competition. Fine-tuned KoBERT and explored an XGBoost ensemble combining BERT embeddings with stylometric features.
 
-Happy to connect about machine learning, research, and learning together.<br>
-**[ksl1165@kau.kr](mailto:ksl1165@kau.kr)**
+### Teaching & Leadership
+
+- **Teaching Assistant** — Data Structures and AI Programming, Korea Aerospace University (2025).
+- **President, Deeperent AI Study Group** — July 2026–present.
