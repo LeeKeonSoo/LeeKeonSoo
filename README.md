@@ -1,33 +1,12 @@
 # Keonsoo Lee
 
-**Undergraduate Researcher · Korea Aerospace University**<br>
+I'm an undergraduate researcher at **QAI Lab, Korea Aerospace University**, studying Software Engineering. Previously, I was a research intern at **DiSC Lab, University of Nevada, Las Vegas**.
+
+My research interests are **small language models**, **efficient training and inference**, and **world models for real-world understanding and action**.
+
+### First-Author Research
+
+- **Evidence-Bound Curation** — A traceable framework for language-model training data curation. Submitted to **IEEE Big Data 2026**.
+- **OptimABS** — Absolute-value-based adaptive optimization, exploring training-time and accuracy trade-offs. Published at **KAIC 2025**. [Code](https://github.com/LeeKeonSoo/2025_AI_Paper)
+
 [ksl1165@kau.kr](mailto:ksl1165@kau.kr)
-
-I study Software Engineering at Korea Aerospace University and conduct research at the QAI Lab. Previously, I was a research intern at the DiSC Lab, University of Nevada, Las Vegas.
-
-### Research Interests
-
-Small Language Models · Efficient Training and Inference · World Models for Real-World Understanding and Action
-
-### Education & Research
-
-| Institution | Position | Period |
-| :--- | :--- | :--- |
-| Korea Aerospace University | B.S. in Software Engineering | Expected Aug. 2027 |
-| QAI Lab, Korea Aerospace University | Undergraduate Researcher · Advisor: Prof. Jay Hoon Jung | Jun. 2025–present |
-| DiSC Lab, University of Nevada, Las Vegas | Research Intern · Advisor: Prof. Shaikh Arifuzzaman | Jan.–May 2026 |
-
-<sub>Research with the DiSC Lab continued through August 2026.</sub>
-
-### Selected Work
-
-**[OptimABS / Adaptive Optimizer Experiments](https://github.com/LeeKeonSoo/2025_AI_Paper)**<br>
-Proposed an absolute-value-based optimizer and led implementation and experiments examining training-time and accuracy trade-offs. First author and presenter at KAIC 2025.
-
-**[AI-Generated Korean Text Detection](https://github.com/LeeKeonSoo/2025_AI_Text)**<br>
-Team project for the 2025 SW-Centered University Digital Competition. Fine-tuned KoBERT and explored an XGBoost ensemble combining BERT embeddings with stylometric features.
-
-### Teaching & Leadership
-
-- **Teaching Assistant** — Data Structures and AI Programming, Korea Aerospace University (2025).
-- **President, Deeperent AI Study Group** — July 2026–present.
